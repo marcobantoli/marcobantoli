@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### I'm a Computer Science student passionate about **Full Stack Web Development**.
+#### I'm a CS student passionate about **Full Stack Web Development**.
 
 - ⚙️ **Favorite Language:** JavaScript 
 - 🌱 **Currently Exploring:** GitHub Actions for CI/CD automation
