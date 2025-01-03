@@ -3,7 +3,7 @@
 #### I'm a CS student passionate about **Full Stack Web Development**.
 
 - ⚙️ **Favorite Language:** JavaScript 
-- 🌱 **Currently Exploring:** GitHub Actions for CI/CD automation
+- 🌱 **Currently Exploring:** AWS
 - 🚀 **Tech Stack:** React, Spring Boot, Tailwind CSS, MySQL, Docker, and more!
 
 <!--
