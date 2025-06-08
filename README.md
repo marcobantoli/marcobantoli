@@ -2,9 +2,9 @@
 
 #### I'm a CS student passionate about **Full Stack Web Development**.
 
-- ⚙️ **Favorite Language:** JavaScript 
-- 🌱 **Currently Exploring:** AWS
-- 🚀 **Tech Stack:** React, Spring Boot, Tailwind CSS, MySQL, Docker, and more!
+⚙️ **Favorite Language:** JavaScript 
+🌱 **Currently Exploring:** AWS
+🚀 **Tech Stack:** React, Spring Boot, Tailwind CSS, MySQL, Docker, and more!
 
 <!--
 **marcobantoli/marcobantoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
