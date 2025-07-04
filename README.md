@@ -2,9 +2,9 @@
 
 #### I'm a CS student interested in full-stack development and all things AI/ML.
 
-- ⚙️ Favorite Language: JavaScript 
-- 🌱 Currently Learning: LangGraph
-- 📫 Connect with me on: [Linkedin](https://www.linkedin.com/in/marcobantolino/)
+- ⚙️ **Favorite Language**: JavaScript 
+- 🌱 **Currently Learning**: LangGraph
+- 📫 **Connect with me on**: [Linkedin](https://www.linkedin.com/in/marcobantolino/)
 
 <!--
 **marcobantoli/marcobantoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
